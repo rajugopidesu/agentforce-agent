@@ -1,0 +1,3 @@
+flask
+agent_sdk
+python-dotenv 
